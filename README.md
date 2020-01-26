@@ -3,3 +3,5 @@
 Reverse a String
 
 Palindrome
+
+Reverse an Integer
