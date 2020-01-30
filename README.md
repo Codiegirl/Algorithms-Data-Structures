@@ -13,3 +13,5 @@ fizzBuzz
 Chunked
 
 Anagrams (also solved with the sort method)
+
+Capitalize
