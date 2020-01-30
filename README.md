@@ -12,4 +12,4 @@ fizzBuzz
 
 Chunked
 
-Anagrams
+Anagrams (also solved with the sort method)
