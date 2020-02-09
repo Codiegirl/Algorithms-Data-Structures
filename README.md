@@ -1,6 +1,6 @@
 # Algorithms-Data-Structures Coding Challenges 
 
-Reverse a String
+Reverse a String. Write a function that takes in a string and reverses it.
 
 Palindrome
 
