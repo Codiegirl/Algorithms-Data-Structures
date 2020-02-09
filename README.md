@@ -2,7 +2,7 @@
 
 Reverse a String. Write a function that takes in a string and reverses it.
 
-Palindrome
+Palindrome. Write a function that tells if a given string reads the same backward as forward.
 
 Reverse an Integer
 
