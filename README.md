@@ -18,6 +18,8 @@ Anagrams (also solved with the sort method)
 
 Capitalize
 
-Pyramis
+Pyramid
+
+Steps
 
 solved pyramid, steps, and vowels
