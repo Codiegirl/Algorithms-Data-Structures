@@ -22,4 +22,6 @@ Pyramid
 
 Steps
 
-solved pyramid, steps, and vowels
+Vowels
+
+
