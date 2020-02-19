@@ -17,3 +17,7 @@ where each subarray is of length size.
 Anagrams (also solved with the sort method)
 
 Capitalize
+
+Pyramis
+
+solved pyramid, steps, and vowels
