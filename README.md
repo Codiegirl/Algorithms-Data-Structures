@@ -16,9 +16,9 @@ where each subarray is of length size.
 
 Anagrams (also solved with the sort method)
 
-Capitalize
+Capitalize Write a function that accepts a string.  The function should capitalize the first letter of each word in the string then return the capitalized string.
 
-Pyramid
+Pyramid Write a function that accepts a positive number N. The function should console log a pyramid shape with N levels using the # character.  Make sure the pyramid has spaces on both the left *and* right hand sides.
 
 Steps
 
