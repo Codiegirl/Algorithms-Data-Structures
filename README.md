@@ -20,7 +20,7 @@ Capitalize Write a function that accepts a string.  The function should capitali
 
 Pyramid Write a function that accepts a positive number N. The function should console log a pyramid shape with N levels using the # character.  Make sure the pyramid has spaces on both the left *and* right hand sides.
 
-Steps
+Steps Write a function that accepts a positive number N. The function should console log a step shape with N levels using the # character.  Make sure the step has spaces on the right hand side!
 
 Vowels
 
