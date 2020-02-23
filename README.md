@@ -22,6 +22,6 @@ Pyramid Write a function that accepts a positive number N. The function should c
 
 Steps Write a function that accepts a positive number N. The function should console log a step shape with N levels using the # character.  Make sure the step has spaces on the right hand side!
 
-Vowels
+Vowels Write a function that returns the number of vowels used in a string.  Vowels are the characters 'a', 'e' 'i', 'o', and 'u'.
 
 
